@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - EnemyBullets
+  - AllyBullets
+  - PowerUp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1469813863
+    locked: 0
+  - name: Ally Bullets
+    uniqueID: 2920371759
+    locked: 0
+  - name: Enemies
+    uniqueID: 1737227881
+    locked: 0
+  - name: Enemy Bullets
+    uniqueID: 265807603
+    locked: 0
+  - name: Environment
+    uniqueID: 3195656533
+    locked: 0
